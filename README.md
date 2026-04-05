@@ -33,7 +33,7 @@ Handles ambiguous regions where model predictions and NDWI disagree, ensuring mo
 ## 📊 Best Score
 
 - **Validation IoU:** `0.2101`
-- Target: **0.18+ (ongoing improvements)**
+-
 
 ---
 
